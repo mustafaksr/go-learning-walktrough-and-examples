@@ -10,7 +10,7 @@ This repository contains a collection of example code and walkthroughs to help m
 4. [Methods and Interfaces](#methods-and-interfaces)
 5. [Generics](#generics)
 6. [Concurrency](#concurrency)
-7. [Examples](#examples)
+7. [Examples](#Examples)
 
 ## 1. Packages, Variables, and Functions
 
